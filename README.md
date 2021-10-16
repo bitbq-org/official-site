@@ -11,3 +11,11 @@ BitBQ.org is well known and safe place for exchange crypto. Fast and secure depo
 Due to its constant presence in the media and impressive success, BitBQ.org will only accept new users until end of this week. From that date on, no new users will be able to register with BitBQ.org until further notice. Therefore, you should act fast and sign up so as not to miss your chance.
 
 👉 👉 👉 [Click here for Sign up and open a free account](https://bitbq.org/?aff_sub3=githu)
+
+## Reviews
+
+⭐ ⭐ ⭐ ⭐ ⭐
+
+I have only been a member of BitBQ.org for 17 days. But my life has already totally changed! Not only did I earn my first 10,000, but I also met some incredible people during the process. Thanks again to the two founders for making this possible for people like me!
+
+*By Dennis Wiedmann*
