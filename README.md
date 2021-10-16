@@ -1,6 +1,6 @@
 # BitBQ.org [Official Site]
 
-[![BitBQ.org](https://raw.githubusercontent.com/bitbq-org/official-site/main/1en.jpeg)](https://bitbq.org/?aff_sub3=githu)
+[![BitBQ.org](https://raw.githubusercontent.com/bitbq-org/official-site/main/1en.jpeg)](https://bitbq.org/?aff_sub3=github)
 
 A team of highly qualified computer experts who previously worked at Google and Apple founded the trading start-up BitBQ.org . They have caused quite a stir in the IT and financial world. BitBQ.org can bring high profits to any user with its unique trading algorithm. Simply by trading bitcoin and cryptocurrencies in an automated way. The user does not need any expertise or money for large investments.
 
