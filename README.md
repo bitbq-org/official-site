@@ -14,8 +14,8 @@ Due to its constant presence in the media and impressive success, BitBQ.org will
 
 ## Reviews
 
-⭐ ⭐ ⭐ ⭐ ⭐
+⭐ ⭐ ⭐ ⭐ ⭐, 5 of 5, Great!
 
 I have only been a member of BitBQ.org for 17 days. But my life has already totally changed! Not only did I earn my first 10,000, but I also met some incredible people during the process. Thanks again to the two founders for making this possible for people like me!
 
-*By Dennis Wiedmann*
+*By Dennis Wiedmann*, 17 october 2021
