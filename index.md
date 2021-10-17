@@ -2,7 +2,7 @@
 
 [![BitBQ.org](https://raw.githubusercontent.com/bitbq-org/official-site/main/1en.jpeg)](https://bitbq.org/?aff_sub3=github)
 
-The trading startup BitBQ.org was created by a group of elite executives and machine learning experts. These individuals have previously worked for Google and Apple. Thanks to its innovative cryptocurrency algorithm based on the difference in exchange spreads, this unique initiative can give large gains to its customers.
+The trading startup BitBQ.org was created by a group of elite executives and machine learning experts. These individuals have previously worked for Google and Apple. Thanks to its innovative cryptocurrency algorithm based on the difference in BTC exchanges spreads, this unique initiative can give large gains to its customers.
 The algorithm code has been made public and may be audited by anybody.
 
 👉 👉 👉 [Click Here To Visit BitBQ](https://bitbq.org/?aff_sub3=github)
