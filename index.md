@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# BitBQ.org [Official Site]
 
-You can use the [editor on GitHub](https://github.com/bitbq-org/official-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![BitBQ.org](https://raw.githubusercontent.com/bitbq-org/official-site/main/1en.jpeg)](https://bitbq.org/?aff_sub3=github)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A team of highly qualified computer experts who previously worked at Google and Apple founded the trading start-up BitBQ.org . They have caused quite a stir in the IT and financial world. BitBQ.org can bring high profits to any user with its unique trading algorithm. Simply by trading bitcoin and cryptocurrencies in an automated way. The user does not need any expertise or money for large investments.
 
-### Markdown
+👉 👉 👉 [Click Here To Visit BitBQ](https://bitbq.org/?aff_sub3=github)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+BitBQ.org is well known and safe place for exchange crypto. Fast and secure deposits and instant withdrawals.
 
-```markdown
-Syntax highlighted code block
+Due to its constant presence in the media and impressive success, BitBQ.org will only accept new users until end of this week. From that date on, no new users will be able to register with BitBQ.org until further notice. Therefore, you should act fast and sign up so as not to miss your chance.
 
-# Header 1
-## Header 2
-### Header 3
+👉 👉 👉 [Click here for Sign up and open a free account](https://bitbq.org/?aff_sub3=github)
 
-- Bulleted
-- List
+## Reviews
 
-1. Numbered
-2. List
+⭐ ⭐ ⭐ ⭐ ⭐, 5 of 5, Great!
 
-**Bold** and _Italic_ and `Code` text
+I have only been a member of BitBQ.org for 17 days. But my life has already totally changed! Not only did I earn my first 10,000, but I also met some incredible people during the process. Thanks again to the two founders for making this possible for people like me!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bitbq-org/official-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*By Dennis Wiedmann* - Sat, 16 Oct 2021 22:15:24
