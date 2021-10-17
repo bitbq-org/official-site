@@ -1,4 +1,4 @@
-# BitBQ.org [Official Site]
+# BitBQ [Official Site]
 
 [![BitBQ.org](https://raw.githubusercontent.com/bitbq-org/official-site/main/1en.jpeg)](https://bitbq.org/?aff_sub3=github)
 
@@ -7,7 +7,7 @@ The algorithm code has been made public and may be audited by anybody.
 
 👉 👉 👉 [Click Here To Visit BitBQ](https://bitbq.org/?aff_sub3=github)
 
-BitBQ.org will only allow new users through the end of this week because to its continuous media exposure and remarkable success. New users will not be allowed to register with BitBQ.org after this date until further notice. As a result, you should register as soon as possible to avoid missing out.
+BitBQ.org will only allow new users through the end of this week because to its continuous media exposure and remarkable success. New users will not be allowed to register with BitBQ after this date until further notice. As a result, you should register as soon as possible to avoid missing out.
 
 👉 👉 👉 [Click here for Sign up and open a free account](https://bitbq.org/?aff_sub3=github)
 
